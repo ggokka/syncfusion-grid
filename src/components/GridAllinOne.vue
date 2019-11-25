@@ -144,7 +144,7 @@ export default {
     "OrderDate": "1996-07-30T00:00:00.000Z",
     "ShippedDate": "1996-08-02T00:00:00.000Z",
     "Freight": 66.29,
-    "ShipName": "삼성호",
+    "ShipName": "유비씨호",
     "ShipAddress": "5ª Ave. Los Palos Grandes",
     "ShipCity": "Caracas",
     "ShipRegion": "DF",
