@@ -131,7 +131,7 @@ export default {
     "OrderDate": "1996-07-29T00:00:00.000Z",
     "ShippedDate": "1996-08-06T00:00:00.000Z",
     "Freight": 208.58,
-    "ShipName": "울룽도호",
+    "ShipName": "울룽도호 ",
     "ShipAddress": "Berliner Platz 43",
     "ShipCity": "München",
     "ShipRegion": null,
